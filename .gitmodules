@@ -1,0 +1,3 @@
+[submodule "fake_sns"]
+	path = fake_sns
+	url = git@github.com:stevenjack/fake_sns.git
